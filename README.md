@@ -1,5 +1,6 @@
-### **Model**: Hierarchical Clustering (Unsupervised Machine Learning)  
-### **Libraries**: Sklearn, Pandas, Matplotlib, Seaborn  
+**Unsupervised Machine Learning Project**: *Customer Segmentation*  
+**Model**: *Hierarchical Clustering*  
+**Libraries**: *Sklearn, Pandas, Matplotlib, Seaborn*  
 
 #### What the problem is and what needs to be done?
 - An automobile company plans to enter new markets.

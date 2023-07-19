@@ -9,4 +9,4 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 I am required to help the manager to predict the right segment of the new customers.  
 
-Find out more about this dataset here: https://www.kaggle.com/vetrirah/customer  
+Find out more about this dataset here: https://www.kaggle.com/vetrirah/customer
